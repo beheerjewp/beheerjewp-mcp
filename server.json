@@ -3,15 +3,15 @@
   "name": "io.github.beheerjewp/wordpress",
   "title": "Beheer je WP",
   "description": "Manage a WordPress site from your AI assistant: read, search, propose edits, Search Console data.",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "websiteUrl": "https://beheerjewp.nl/",
   "repository": {
-    "url": "https://github.com/smrht/beheerjewp-mcp",
+    "url": "https://github.com/beheerjewp/beheerjewp-mcp",
     "source": "github"
   },
   "icons": [
     {
-      "src": "https://raw.githubusercontent.com/smrht/beheerjewp-mcp/main/logo-400.png",
+      "src": "https://raw.githubusercontent.com/beheerjewp/beheerjewp-mcp/main/logo-400.png",
       "mimeType": "image/png",
       "sizes": [
         "400x400"
