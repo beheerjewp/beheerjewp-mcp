@@ -1,0 +1,27 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.beheerjewp/wordpress",
+  "title": "Beheer je WP",
+  "description": "Manage a WordPress site from your AI assistant: read, search, propose edits, Search Console data.",
+  "version": "1.1.0",
+  "websiteUrl": "https://beheerjewp.nl/",
+  "repository": {
+    "url": "https://github.com/smrht/beheerjewp-mcp",
+    "source": "github"
+  },
+  "icons": [
+    {
+      "src": "https://raw.githubusercontent.com/smrht/beheerjewp-mcp/main/logo-400.png",
+      "mimeType": "image/png",
+      "sizes": [
+        "400x400"
+      ]
+    }
+  ],
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://beheerjewp.nl/mcp"
+    }
+  ]
+}
